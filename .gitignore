@@ -1,0 +1,14 @@
+# eclipse related
+.project
+.settings
+.buildpath
+
+# 3rd party
+vendor
+
+# personal utility files
+*.bat
+
+# composer related
+*.lock
+*.phar
